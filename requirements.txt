@@ -1,0 +1,3 @@
+selenium
+By
+pytest==7.1.1
